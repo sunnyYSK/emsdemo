@@ -10,7 +10,6 @@ public class EmsdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmsdemoApplication.class, args);
-                System.out.println();
 	}
 
 }
